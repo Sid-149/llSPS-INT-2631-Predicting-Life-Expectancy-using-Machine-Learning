@@ -11,4 +11,8 @@ GDP, education, alcohol intake of people in the country, expenditure on healthca
 happened in the country are given.
 
 # Link to the Project UI : https://node-red-pleml.eu-gb.mybluemix.net/ui/#!/0?socketid=dn7sNLc8duoXFFekAAAN 
+
+![UI1](Life%20Expectancy/Screenshots%20of%20the%20Project/User%20Interface_1.PNG)
+![UI2](Life%20Expectancy/Screenshots%20of%20the%20Project/User%20Interface_2.PNG)
+
 # Link to the Demonstration Video : https://drive.google.com/file/d/1Gj5cpSiSZzBlkjVZ3r5kMcYegWICRm7T/view?usp=sharing 
