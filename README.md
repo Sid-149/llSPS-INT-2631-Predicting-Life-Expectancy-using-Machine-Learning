@@ -1,5 +1,5 @@
 # llSPS-INT-2631-Predicting-Life-Expectancy-using-Machine-Learning
-Predicting Life Expectancy using Machine Learning
+
 A typical Regression Machine Learning project leverages historical data to predict insights into the future. 
 This problem statement is aimed at predicting Life Expectancy rate of a country given various features.
 
